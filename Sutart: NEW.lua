@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/bFvSdKFr"))()
 
 --Converted with ttyyuu12345's model to script plugin v4
 function sandbox(var,func)
